@@ -1,7 +1,8 @@
 # Oh-wow-wow-pair!
 A company full of dolls.
-## Member
+## Founder
 - happylittle7
 - cyucccx
 - noyapoyo
+
 - RokuSennyou
